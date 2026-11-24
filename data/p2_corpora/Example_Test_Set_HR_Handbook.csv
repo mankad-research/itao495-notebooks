@@ -1,0 +1,21 @@
+q_id,question_type,question,correct_answer,source_sections
+Q01,direct,How many hours per week must an employee be regularly scheduled to be classified as full-time?,32 or more hours per week.,2.1
+Q02,direct,What is the yearly sick leave cap for part-time employees?,32 hours per year (part-time sick leave accrues at 1 hour per 40 hours worked).,4.1
+Q03,direct,What overtime rate do hourly employees earn for hours worked beyond 40 in a workweek?,1.5 times their regular rate.,3.3
+Q04,direct,Between which dates will stores not approve PTO?,November 20 through December 24 (the holiday blackout period).,4.2
+Q05,direct,"How many weeks of paid parental leave does a full-time birth parent with 12 months of service receive, and at what rate of pay?","12 weeks, paid at 100 percent of base pay.",5.1
+Q06,direct,"What is the standard nightly hotel limit for business travel, and what is it in New York City?","$180 per night in general; $250 per night in New York City (also San Francisco, Boston, and Washington, D.C.).",8.3
+Q07,direct,What number can an employee call to make an anonymous harassment report?,"The Ethics Line, 1-800-555-0142 (open 24 hours a day and run by an outside company).",10.2
+Q08,direct,"When is open enrollment each year, and when do new elections take effect?",Open enrollment runs November 1 through November 15; new elections take effect January 1.,12.2
+Q09,direct,How much notice of resignation are salaried managers asked to give?,4 weeks' notice.,13.2
+Q10,direct,"How long is the Responsible AI Use training, and by when must a new tool user complete it?",It is 45 minutes long and must be completed within 30 days of receiving access to an approved AI tool (then repeated every year).,14.3
+Q11,two_passage,How many hours of unused sick leave can a part-time employee carry over from one year to the next?,"Up to 32 hours. Sick leave carryover is limited to the yearly sick cap for the employee's category (4.4), and the part-time cap is 32 hours (4.1).",4.1; 4.4
+Q12,two_passage,An hourly employee works a 14-hour shift on Independence Day. At what rate are the hours beyond 12 paid?,"Double time (2x). Overtime pays double time beyond 12 hours in a day (3.3), and the holiday premium of 1.5x does not add to overtime; the higher rate applies to each hour (6.2).",3.3; 6.2
+Q13,two_passage,A full-time employee is on paid parental leave. What share of her employee-only medical premium does Northwind pay?,"80 percent. Benefits continue on the same terms during leave (5.3), and Northwind pays 80 percent of employee-only medical premiums, a share that does not change during paid parental leave (12.3).",5.3; 12.3
+Q14,two_passage,A corporate hybrid employee's most recent performance rating is Partially Meets Expectations. Is she still eligible to work hybrid?,"No. Remote and hybrid work require a most recent rating of Meets Expectations or higher (7.2), and Partially Meets Expectations is below Meets Expectations on the four-level scale (11.2).",7.2; 11.2
+Q15,two_passage,Can a new full-time employee have medical coverage before being allowed to use PTO?,"Yes. Medical coverage begins on the first day of the month after 60 days of employment (12.1), but PTO cannot be used until the 90-day introductory period ends (4.2).",4.2; 12.1
+Q16,unanswerable,Are employees allowed to bring their dogs to work at the office or in the stores?,The handbook does not say.,none
+Q17,unanswerable,Does Northwind offer stock options or other equity grants to employees?,The handbook does not say.,none
+Q18,unanswerable,Does Northwind reimburse employees for college tuition?,The handbook does not say.,none
+Q19,unanswerable,Does Northwind provide relocation assistance when an employee is transferred to a different city?,The handbook does not say.,none
+Q20,unanswerable,What discount do employees receive on Northwind merchandise?,The handbook does not say.,none
