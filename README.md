@@ -2,6 +2,8 @@
 
 Colab notebooks, project templates and practice data for **ITAO 495, AI Models and Agents for Business**, an undergraduate course at the NC State University Poole College of Management (Spring 2027).
 
+**Faculty:** Shawn Mankad
+
 The notebooks are hands-on labs. You call real language models from code, build small tools and agents, and then test how well they hold up. No coding background is assumed. Notebook 1 sets you up, and Notebook 2 teaches the Python you need.
 
 ## Quick start
@@ -87,4 +89,4 @@ projects/    the three project templates
 data/        practice data for the projects
 ```
 
-Slides, quizzes and other instructor materials are not part of this repository. If you find a bug or something that does not run, tell your instructor.
+Slides, quizzes and other instructor materials are not part of this repository. If you find a bug or something that does not run, email Professor Mankad at smankad@ncsu.edu.
